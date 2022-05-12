@@ -120,8 +120,10 @@
       },
       "track_widths": [
         0.0,
+        0.127,
         0.3048,
-        0.381
+        0.381,
+        0.508
       ],
       "via_dimensions": [
         {
@@ -400,8 +402,7 @@
         "name": "Power",
         "nets": [
           "+5V",
-          "GND",
-          "VCC"
+          "GND"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
