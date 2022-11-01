@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "led")(type "KiCad")(uri "${GITREPO}/DiomKBS-Switches/led.pretty")(options "")(descr ""))
+  (lib (name "kailh-switches-hotswap")(type "KiCad")(uri "${GITREPO}/DiomKBS-Switches/kailh-switches-hotswap.pretty")(options "")(descr ""))
+  (lib (name "josh-passives-smt")(type "KiCad")(uri "${GITREPO}/Diom-20MP/lib/josh-kicad-lib/josh-passives-smt.pretty")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "${GITREPO}/Diom-20MP/lib/random-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name "acheron_Connectors")(type "KiCad")(uri "${GITREPO}/Diom-20MP/AlexandriaLibrary/footprints/acheron_Connectors.pretty")(options "")(descr ""))
+  (lib (name "acheron_Components")(type "KiCad")(uri "${GITREPO}/Diom-20MP/AlexandriaLibrary/footprints/acheron_Components.pretty")(options "")(descr ""))
+)
